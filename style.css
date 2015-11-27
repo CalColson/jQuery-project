@@ -1,0 +1,41 @@
+.container {
+	text-align: center;
+	padding-top: 50px;
+	width: 1270px;
+	
+}
+
+.square {
+	height: 40px;
+	width: 40px;
+	background-color: #F00;
+	display: inline-block;
+	border: 1px solid black;
+	margin-top: -4px;
+}
+
+.square2 {
+	height: 20px;
+	width: 20px;
+	background-color: #F00;
+	display: inline-block;
+	border: 1px solid black;
+	margin-top: -4px;
+}
+
+.square3 {
+	height: 10px;
+	width: 10px;
+	background-color: #F00;
+	display: inline-block;
+	border: 1px solid black;
+	margin-top: -4px;
+}
+
+#clear {
+	margin-left: 487px;
+	margin-top: 50px;
+	width: 300px;
+	text-align: center;
+	
+}
